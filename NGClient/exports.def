@@ -1,0 +1,8 @@
+LIBRARY "NGClient"
+
+EXPORTS
+	1 = NGClient_Start			@1 PRIVATE
+	2 = NGClient_Stop			@2 PRIVATE
+	3 = NGClient_Ordinal3		@3 PRIVATE
+	4 = NGClient_Ordinal4		@4 PRIVATE
+	5 = NGClient_Ordinal5		@5 PRIVATE
